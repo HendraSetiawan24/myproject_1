@@ -20,5 +20,8 @@ print(colored("Hello World", "green"))
 print(colored("Hello World", "yellow"))
 print(colored("Hello World", "cyan"))
 
+print("Hello Universe")
+
+
 
 
